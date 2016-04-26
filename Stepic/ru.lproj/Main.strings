@@ -1,0 +1,141 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0c8-jf-22J"; */
+"0c8-jf-22J.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Syllabus"; ObjectID = "1al-js-zDv"; */
+"1al-js-zDv.title" = "Курс";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account? Sign up!"; ObjectID = "4ln-w4-e92"; */
+"4ln-w4-e92.normalTitle" = "Нет аккаунта? Зарегистрируйся!";
+
+/* Class = "UILabel"; text = "Incorrect username or password!"; ObjectID = "5ss-uq-4Dy"; */
+"5ss-uq-4Dy.text" = "Неверное имя пользователя или пароль!";
+
+/* Class = "UILabel"; text = "Load videos with 3G"; ObjectID = "5ty-cw-1qL"; */
+"5ty-cw-1qL.text" = "Загружать видео только по Wi-Fi";
+
+/* Class = "UITableViewSection"; headerTitle = "Actions"; ObjectID = "6bM-2c-3U9"; */
+"6bM-2c-3U9.headerTitle" = "Действия";
+
+/* Class = "UILabel"; text = "Course name"; ObjectID = "8q0-dk-g4x"; */
+"8q0-dk-g4x.text" = "Название курса";
+
+/* Class = "UINavigationItem"; title = "Downloads"; ObjectID = "9Ja-ap-5iY"; */
+"9Ja-ap-5iY.title" = "Загрузки";
+
+/* Class = "UINavigationItem"; title = "Courses"; ObjectID = "Ai7-bS-YO0"; */
+"Ai7-bS-YO0.title" = "Курсы";
+
+/* Class = "UITextField"; placeholder = "Second name"; ObjectID = "CKB-fc-HPJ"; */
+"CKB-fc-HPJ.placeholder" = "Фамилия";
+
+/* Class = "UILabel"; text = "High (720p)"; ObjectID = "CZc-YT-fnT"; */
+"CZc-YT-fnT.text" = "Высокое (720p)";
+
+/* Class = "UITabBarItem"; title = "All Courses"; ObjectID = "D6B-Zy-xmi"; */
+"D6B-Zy-xmi.title" = "Все курсы";
+
+/* Class = "UILabel"; text = "Loading video quality"; ObjectID = "EXC-VF-8ez"; */
+"EXC-VF-8ez.text" = "Качество загружаемого видео";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "Fk1-Ad-oby"; */
+"Fk1-Ad-oby.normalTitle" = "Вход";
+
+/* Class = "UITabBarItem"; title = "My courses"; ObjectID = "I8C-zf-fZb"; */
+"I8C-zf-fZb.title" = "Мои курсы";
+
+/* Class = "UILabel"; text = "Medium (360p)"; ObjectID = "IEf-kx-jQ6"; */
+"IEf-kx-jQ6.text" = "Среднее (360p)";
+
+/* Class = "UIButton"; normalTitle = "Join the course"; ObjectID = "MZy-dW-Bj2"; */
+"MZy-dW-Bj2.normalTitle" = "Записаться на курс";
+
+/* Class = "UINavigationItem"; title = "Units"; ObjectID = "Mxn-oD-Gai"; */
+"Mxn-oD-Gai.title" = "Уроки";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "NM5-KZ-Gds"; */
+"NM5-KZ-Gds.placeholder" = "Имя";
+
+/* Class = "UILabel"; text = "Very high (1080p)"; ObjectID = "OW7-XU-kNz"; */
+"OW7-XU-kNz.text" = "Очень высокое (1080p)";
+
+/* Class = "UINavigationItem"; title = "Video quality"; ObjectID = "SpQ-u4-OIw"; */
+"SpQ-u4-OIw.title" = "Качество видео";
+
+/* Class = "UINavigationItem"; title = "Lesson"; ObjectID = "SvS-aT-zHS"; */
+"SvS-aT-zHS.title" = "Урок";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "TkU-tI-SSn"; */
+"TkU-tI-SSn.text" = "Регистрация";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "UW2-m4-1uM"; */
+"UW2-m4-1uM.placeholder" = "Электронная почта";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "UoZ-CZ-ikS"; */
+"UoZ-CZ-ikS.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Low (270p)"; ObjectID = "WD1-p6-4ZZ"; */
+"WD1-p6-4ZZ.text" = "Низкое (270p)";
+
+/* Class = "UIBarButtonItem"; title = "Clear cache"; ObjectID = "WWT-xn-H4f"; */
+"WWT-xn-H4f.title" = "Очистить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wmo-uV-nkK"; */
+"Wmo-uV-nkK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Solve on the website"; ObjectID = "XFa-co-jRL"; */
+"XFa-co-jRL.normalTitle" = "Решить на сайте";
+
+/* Class = "UIButton"; normalTitle = "Solve on the website"; ObjectID = "YOH-BM-1sX"; */
+"YOH-BM-1sX.normalTitle" = "Решить на сайте";
+
+/* Class = "UINavigationItem"; title = "Preferences"; ObjectID = "bkx-mv-8DI"; */
+"bkx-mv-8DI.title" = "Настройки";
+
+/* Class = "UITableViewSection"; headerTitle = "User info"; ObjectID = "dKt-Jb-OtY"; */
+"dKt-Jb-OtY.headerTitle" = "Пользователь";
+
+/* Class = "UITableViewSection"; headerTitle = "Video preferences"; ObjectID = "dRl-3b-IkP"; */
+"dRl-3b-IkP.headerTitle" = "Настройки видео";
+
+/* Class = "UINavigationItem"; title = "My courses"; ObjectID = "g7g-TI-yPj"; */
+"g7g-TI-yPj.title" = "Мои курсы";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "iIb-Ou-ABM"; */
+"iIb-Ou-ABM.placeholder" = "Электронная почта";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "mbI-3x-eYW"; */
+"mbI-3x-eYW.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nMT-0R-3xe"; */
+"nMT-0R-3xe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "terms of service"; ObjectID = "pCI-N9-PAy"; */
+"pCI-N9-PAy.normalTitle" = "terms of service";
+
+/* Class = "UINavigationItem"; title = "Course"; ObjectID = "pUr-jb-6t6"; */
+"pUr-jb-6t6.title" = "Курс";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "tbx-hn-Gcp"; */
+"tbx-hn-Gcp.normalTitle" = "Выйти";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "tn1-Ez-VfM"; */
+"tn1-Ez-VfM.placeholder" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Solve on the website"; ObjectID = "uCA-ca-prT"; */
+"uCA-ca-prT.normalTitle" = "Решить на сайте";
+
+/* Class = "UISegmentedControl"; uiF-lQ-kcC.segmentTitles[0] = "Overview"; ObjectID = "uiF-lQ-kcC"; */
+"uiF-lQ-kcC.segmentTitles[0]" = "Обзор";
+
+/* Class = "UISegmentedControl"; uiF-lQ-kcC.segmentTitles[1] = "Detailed"; ObjectID = "uiF-lQ-kcC"; */
+"uiF-lQ-kcC.segmentTitles[1]" = "Детально";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "ve6-hT-0vt"; */
+"ve6-hT-0vt.text" = "Общее";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "y9y-0V-gfH"; */
+"y9y-0V-gfH.text" = "Описание";
+
+/* Class = "UILabel"; text = "Workload"; ObjectID = "yfF-dt-vak"; */
+"yfF-dt-vak.text" = "Нагрузка";

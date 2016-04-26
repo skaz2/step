@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  Stepic
+
+  Created by Alexander Karpov on 26.10.15.
+  Copyright © 2015 Alex Karpov. All rights reserved.
+*/
+
+SignedIn = "Успешно!";
+FailedToSignIn = "Не удалось авторизоваться";
+RemoveVideoTitle = "Удаление видео из урока";
+RemoveVideoBody = "Вы уверены, что хотите удалить сохраненное видео из этого урока?";
+Cancel = "Отмена";
+Remove = "Удалить";
+Yes = "Да";
+Reload = "Обновить";
+ConnectionErrorTitle = "Ошибка соединения";
+ConnectionErrorSubtitle = "Подключитесь к интернету и повторите попытку";
+DownloadReachabilityErrorTitle = "Разрешена только загрузка по Wi-Fi";
+SomethingWrongTitle = "Упс";
+SomethingWrongSubtitle = "Что-то пошло не так";
+ReloginTitle = "Ошибка авторизации";
+ReloginSubtitle = "Войдите, пожалуйста";
+Studying = "Записан на курс";
+JoinCourse = "Записаться на курс";
+ClearCacheTitle = "Очистить кэш";
+ClearCacheMessage = "Удалить все видео из памяти Вашего iPhone?";
+FailedToRemoveMessage = "Ошибка при удалении";
+RemovedAllMessage = "Удалено";
+Downloading = "Загружается";
+Completed = "Загружено";
+EmptyDownloadsTitle = "Загрузок нет!";
+EmptyDownloadsDescription = "Вы можете загрузить видео из вкладок \"Мои курсы\" и \"Все курсы\".";
+Lesson = "Урок";
+EmptyMyCoursesTitle = "Вы не обучаетесь ни на одном курсе";
+EmptyMyCoursesDescription = "Чтобы записаться на курс, перейдите на вкладку \"Все курсы\" и выберите любой понравившийся Вам курс!";
+ReloadPlayerTitle = "Видео загружено";
+ReloadPlayerMessage = "Обновить проигрыватель?";
+BeginDate = "Дата начала";
+SoftDeadline = "Мягкий дедлайн";
+HardDeadline = "Жесткий дедлайн";
+Certificate = "Сертификат";
+Summary = "О курсе";
+Description = "Описание";
+Workload = "Нагрузка";
+Audience = "Целевая аудитория";
+Format = "Формат курса";
+Requirements = "Требования";
+Video = "видео";
+Videos = "видео";
+ConnectionLost = "Соединение потеряно";
+CancelledDownload = "Прекращена загрузка";
+UnenrollAlertTitle = "Прекратить обучение";
+UnenrollAlertMessage = "Вы действительно хотите перестать учиться на этом курсе?";
+Unenroll = "Прекратить обучение";
+Mb = "Мб";
+NoAccess = "Нет доступа";
+NotEnrolledToCourseMessage = "Вы не обучаетесь на курсе";
+from = "с";
+until = "до";
+Link = "Ссылка";
+OpenInBrowser = "Открыть ссылку в браузере?";
+Open = "Открыть";
+TryJoinFromWeb = "Попробуйте записаться на курс в веб версии!";
+Error = "Ошибка";
+Email = "Эл. почта";
+Password = "Пароль";
+SignIn = "Войти";
+SignUp = "Регистрация";
+SocialSignIn = "Войти с помощью соц. сетей";
+DontHaveAccountQuestion = "Нет аккаунта?";
+ForgotPassword = "Забыли пароль?";
+WrongFields = "Неправильно введены данные!";
+IgnoreMuteSwitch = "Игнорировать беззвучный режим";
+NoSearchResultsTitle = "Ничего не найдено";
+Alert = "Внимание";
+Confirm = "Подтвердите действие";
+Prompt = "Введите данные";
+
