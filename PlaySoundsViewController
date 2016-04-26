@@ -1,0 +1,92 @@
+import UIKit
+import AVFoundation
+
+class PlaySoundsViewController: UIViewController {
+    
+    
+    @IBOutlet weak var stopRecording: UIButton!
+    
+    
+    var audioPlayer:AVAudioPlayer!
+    var receivedAudio:RecordedAudio!
+    
+    
+    func playAudio() {
+        audioPlayer.stop()
+        audioPlayer.currentTime = 0.0
+        audioPlayer.play()
+        
+        
+    }
+    
+    
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        // Do any additional setup after loading the view.
+       // let audioPath  = NSBundle.mainBundle().pathForResource("movie_quote", ofType: "mp3")!
+        //let audioUrl = NSURL(fileURLWithPath: audioPath)
+        
+
+//        
+//       do {
+//          let mySound = try AVAudioPlayer(contentsOfURL:receivedAudio.filePathUrl)
+//           audioPlayer = mySound
+//            mySound.enableRate = true
+//            mySound.prepareToPlay()
+//
+//        }
+//        
+//       catch {
+//            print("Error getting the audio file")
+//        
+//       }
+        
+        audioPlayer = try! AVAudioPlayer(contentsOfURL: receivedAudio.filePathUrl)
+        audioPlayer.enableRate = true
+        audioPlayer.prepareToPlay()
+        
+       
+    }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+    
+
+    /*
+    // MARK: - Navigation
+
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        // Get the new view controller using segue.destinationViewController.
+        // Pass the selected object to the new view controller.
+    }
+    */
+    
+    
+   
+    
+    @IBAction func playSlowAudio(sender: UIButton) {
+        audioPlayer.rate = 0.5
+        playAudio()
+    
+        
+
+    }
+    
+    @IBAction func playFastAudio(sender: UIButton) {
+        audioPlayer.rate = 2.0
+        playAudio()
+    
+    }
+
+    @IBAction func stopRecording(sender: UIButton) {
+        audioPlayer.stop()
+    }
+    
+    
+
+}
